@@ -100,7 +100,7 @@ This project involves exploratory data analysis (EDA) of a Netflix dataset using
 
 **Yusuf Olayinka**  
 yusufolayinka92@gmail.com 
-
+https://www.linkedin.com/in/olayinka-yusuf-884362115/
 ---
 
 ## 📎 License
